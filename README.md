@@ -12,7 +12,7 @@ Timeless Entropic Framework: A perspective of General Relativity, Quantum Mechan
 
 ## Overview
 
-This repository contains a complete reformulation of fundamental physics in which temporal structure emerges from geometric correlations across an entropy-field foliation of spacetime. The framework demonstrates that:
+This repository contains a alternate reformulation of fundamental physics in which temporal structure emerges from geometric correlations across an entropy-field foliation of spacetime. The framework demonstrates that:
 
 - **Time is not fundamental** but emerges from correlations across entropic layers
 - **General relativity and quantum mechanics** emerge from a single timeless constraint
