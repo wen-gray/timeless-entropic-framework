@@ -240,7 +240,7 @@ These analogies are not mere stories—they directly correspond to mathematical 
 
 ## For Further Reading
 
-**Technical details:** See the full paper `paper/geometric_entropic_framework.pdf`
+**Technical details:** See the full paper `paper/Geometric_Entropic.pdf`
 
 **Other accessible materials:**
 - Executive summary: `summaries/executive_summary.md`
